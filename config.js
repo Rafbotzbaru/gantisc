@@ -41,26 +41,26 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['6285822347348'] //ur owner number
-global.ownername = "ArullOfc"
-global.ytname = "YT:ARULL OFC " //ur yt chanel name
+global.owner = ['6285646606905'] //ur owner number
+global.ownername = "Raf"
+global.ytname = "YT:ASYRAF 6YOUU " //ur yt chanel name
 global.socialm = "GitHub: Warikrr" //ur github or insta name
 global.location = "Indonesia, Kalimantan Selatan, Kotabaru" //ur location
 
 //bot bombdy
-global.botname = "ArullBotz" //ur bot name
-global.websitex = "https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg" //ur website
+global.botname = "Rafbotz" //ur bot name
+global.websitex = "https://youtube.com/channel/UCY6WNM6jZlmfWULcG69rNbQ" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/eFNTvNt.mp4' } //gif and video menu
 global.packname = "Sticker By"
-global.author = "ArullBotz"
+global.author = "Raf Botz"
 global.themeemoji = "🐶"
 global.reactmoji = "🗿"
-global.ownertag = ['ArullOfc'] //ur owner tag
-global.ownernummenu = ['6285822347348'] //ur owner number in menu and all
-global.watermark = "ArullBotz" //ur watermark
-global.botscript = "https://youtu.be/Gr6yuCbSGTI"
-global.linkz1 = "https://chat.whatsapp.com/F6CAAOhrORm1sPdq6cRKAS"
-global.linkz2 = "https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg"
+global.ownertag = ['Raf'] //ur owner tag
+global.ownernummenu = ['6285646606905'] //ur owner number in menu and all
+global.watermark = "Raf Botz" //ur watermark
+global.botscript = "https://youtube.com/channel/UCY6WNM6jZlmfWULcG69rNbQ"
+global.linkz1 = "https://chat.whatsapp.com/CRrj0z3HgeX39XHNUt0M9V"
+global.linkz2 = "https://instagram.com/asyrafsixyouu"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -94,19 +94,19 @@ global.sessionName = "session"
 global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.mess = {
-    success: 'Done✓',
-    admin: '*Khusus Admin*',
-    botAdmin: '*Bot Bukan Admin*',
-    owner: '*Khusus Pemilik Bot*',
-    group: '*Khusus Didalam Group*',
-    private: '*Khusus Chat Private*',
-    bot: '*Khusus Yang Jadibot*',
-    wait: '*Sabar...Orang sabar disayang janda*',
-    linkm: '*Linknya Mana?*',
-    error: 'Error!',
-    ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
-    nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
-    banChat: 'The bot was banned in this group, please contact the owner to unban'
+    success: 'Done, Bokep Upin Ipin Telah Selesai',
+    admin: '*Khusus Admin Tolol, Lu Jan Sok Nguasai Gc Kntl*',
+    botAdmin: '*Bot Bukan Admin Tolol*',
+    owner: '*Khusus Owner Dek, Aowwokwok*',
+    group: '*Khusus Dalam Grup Tolol*',
+    private: '*Khusus Chat Pribadi Tolol*',
+    bot: '*Lu Bukan Bot Tolol*',
+    wait: '*Bokep Upin Ipin Sedang Diproses... *',
+    linkm: '*Linknya Mana Tolol?*',
+    error: 'Error tolol!',
+    ban: 'Aowkwowk lu Diban ama Owner!.',
+    nsfw: 'Fitur Nsfw Belum Diaktifin Tolol',
+    banChat: 'Aowwkwo Kasian Groupnya Diban'
 }
 global.limitawal = {
     premium: "Infinity",

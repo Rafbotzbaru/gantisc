@@ -41,10 +41,10 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['6285646606905'] //ur owner number
-global.ownername = "Raf"
+global.owner = ['6281946945315'] //ur owner number
+global.ownername = "Asyraf 6Youu"
 global.ytname = "YT:ASYRAF 6YOUU " //ur yt chanel name
-global.socialm = "GitHub: Warikrr" //ur github or insta name
+global.socialm = "GitHub: Rafbotzbatu" //ur github or insta name
 global.location = "Indonesia, Kalimantan Selatan, Kotabaru" //ur location
 
 //bot bombdy
@@ -55,8 +55,8 @@ global.packname = "Sticker By"
 global.author = "Raf Botz"
 global.themeemoji = "🐶"
 global.reactmoji = "🗿"
-global.ownertag = ['Raf'] //ur owner tag
-global.ownernummenu = ['6285646606905'] //ur owner number in menu and all
+global.ownertag = ['Asyraf 6Youu'] //ur owner tag
+global.ownernummenu = ['6281946945315'] //ur owner number in menu and all
 global.watermark = "Raf Botz" //ur watermark
 global.botscript = "https://youtube.com/channel/UCY6WNM6jZlmfWULcG69rNbQ"
 global.linkz1 = "https://chat.whatsapp.com/CRrj0z3HgeX39XHNUt0M9V"
